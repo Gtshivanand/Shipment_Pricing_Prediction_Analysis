@@ -80,16 +80,31 @@ learning algorithms that’s best fit for the above case.
 ## 🛠️ Installation
 To run this project, you will need Python and the required libraries. Set up a virtual environment and install dependencies using pip:
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn flask
+To install Flask, follow these steps:
+
+1. Install Flask Using pip
+
+Flask can be installed using Python's package manager, pip.
+
+     ! pip install flask
+
+2. Verify the Installation
+
+installation, verify that Flask is installed by checking its version:
+
+      python -m flask --version
+
+This command should output the Flask version and its dependencies.
+
+
 
 # Feedback and Suggestions:
 
 I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
 
- **LinkedIn**: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+**LinkedIn**: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
  
- **Email**: shivanandnashi97@gmail.com
+**Email**: shivanandnashi97@gmail.com
 
 
 Looking forward to connecting and exchanging ideas!
