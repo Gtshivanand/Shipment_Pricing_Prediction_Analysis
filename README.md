@@ -46,16 +46,14 @@ learning algorithms that’s best fit for the above case.
 
 ## 🔄 Architecture & Process Flow:
 ### Process Flow:
-![Screenshot 2024-10-21 192106](https://github.com/user-attachments/assets/4769bfdb-4777-4845-833b-b0405f3447eb)
- <!-- Ensure to replace with the correct path to your image -->
-
+![Screenshot 2024-10-21 192106](https://github.com/Gtshivanand/Shipment_Pricing_Prediction_Analysis/blob/main/Snapshots/ProcessFlow.png)
 ### Data Validation and Transformation
 - **Missing Values**: All missing values were replaced with the mode (most frequent value).
 - **Numerical Columns**: Standardized to prevent data leakage using pipelines.
 - **Categorical Columns**: Encoded using either label encoding or one-hot encoding.
 
 ### Model Training
-![Screenshot 2024-10-21 192043](https://github.com/user-attachments/assets/b38f85b8-5d8c-4688-b1ef-20f8042852a3)
+![Screenshot 2024-10-21 192043](https://github.com/Gtshivanand/Shipment_Pricing_Prediction_Analysis/blob/main/Snapshots/Modelling.png)
   
 - Accumulated data was exported to Python and read using Pandas.
 - Performed exploratory data analysis (EDA) to identify distributions, outliers, and trends.
